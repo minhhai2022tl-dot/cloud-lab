@@ -20,3 +20,10 @@ node_modules/
 # Node.js
 node_modules/
 dist/
+
+# Lab 02 MERN
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
