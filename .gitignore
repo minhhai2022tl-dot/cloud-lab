@@ -6,3 +6,17 @@ build/
 *.tmp
 __pycache__/
 .env
+
+.env
+.env.*
+!.env.example
+node_modules/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Node.js
+node_modules/
+dist/
